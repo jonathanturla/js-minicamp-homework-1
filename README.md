@@ -14,13 +14,13 @@ Answers:
 
 Variables - a placeholder that can store values.
 
-Strings - a word that may consist of two or more letters or characters.
+Strings - a word that may consist of two or more letters/characters.
 
 Functions (arguments, return) - a chunk of code that accepts a value (which is the argument) and returns a value after executing that chunk of code.
 
-if statements - a conditional statement that test if something is true or not. If it's true, it will execute an instructions; otherwise, it doesn't do anything.
+if statements - a conditional statement that tests if something is true or not. If it's true, it will execute instructions; otherwise, it doesn't do anything.
 
-Boolean Value (true, false) - Only two possible values which is true or false, and no in between. 
+Boolean Value (true, false) - Only two possible values which are true or false, and no in-between. 
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
